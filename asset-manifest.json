@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/dooravel_react/static/css/main.310e31fb.chunk.css",
-    "main.js": "/dooravel_react/static/js/main.c727cb28.chunk.js",
-    "main.js.map": "/dooravel_react/static/js/main.c727cb28.chunk.js.map",
+    "main.js": "/dooravel_react/static/js/main.ef1df32c.chunk.js",
+    "main.js.map": "/dooravel_react/static/js/main.ef1df32c.chunk.js.map",
     "runtime-main.js": "/dooravel_react/static/js/runtime-main.6eb3527e.js",
     "runtime-main.js.map": "/dooravel_react/static/js/runtime-main.6eb3527e.js.map",
     "static/js/2.9ef10555.chunk.js": "/dooravel_react/static/js/2.9ef10555.chunk.js",
     "static/js/2.9ef10555.chunk.js.map": "/dooravel_react/static/js/2.9ef10555.chunk.js.map",
     "index.html": "/dooravel_react/index.html",
-    "precache-manifest.d85a6d30d7fa3e727fcacaeeca12a03b.js": "/dooravel_react/precache-manifest.d85a6d30d7fa3e727fcacaeeca12a03b.js",
+    "precache-manifest.87aeb180462c787577310a970caae9f6.js": "/dooravel_react/precache-manifest.87aeb180462c787577310a970caae9f6.js",
     "service-worker.js": "/dooravel_react/service-worker.js",
     "static/css/main.310e31fb.chunk.css.map": "/dooravel_react/static/css/main.310e31fb.chunk.css.map",
-    "static/js/2.9ef10555.chunk.js.LICENSE.txt": "/dooravel_react/static/js/2.9ef10555.chunk.js.LICENSE.txt"
+    "static/js/2.9ef10555.chunk.js.LICENSE.txt": "/dooravel_react/static/js/2.9ef10555.chunk.js.LICENSE.txt",
+    "static/media/1.jpeg": "/dooravel_react/static/media/1.139b0195.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.6eb3527e.js",
     "static/js/2.9ef10555.chunk.js",
     "static/css/main.310e31fb.chunk.css",
-    "static/js/main.c727cb28.chunk.js"
+    "static/js/main.ef1df32c.chunk.js"
   ]
 }
