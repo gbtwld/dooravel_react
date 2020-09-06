@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/dooravel_react/static/js/main.3b3b0ff2.chunk.js",
+    "main.js.map": "/dooravel_react/static/js/main.3b3b0ff2.chunk.js.map",
+    "runtime-main.js": "/dooravel_react/static/js/runtime-main.6eb3527e.js",
+    "runtime-main.js.map": "/dooravel_react/static/js/runtime-main.6eb3527e.js.map",
+    "static/js/2.ecf6e0c0.chunk.js": "/dooravel_react/static/js/2.ecf6e0c0.chunk.js",
+    "static/js/2.ecf6e0c0.chunk.js.map": "/dooravel_react/static/js/2.ecf6e0c0.chunk.js.map",
+    "index.html": "/dooravel_react/index.html",
+    "precache-manifest.0f539e93e9a5216ab406376ce20a2bdf.js": "/dooravel_react/precache-manifest.0f539e93e9a5216ab406376ce20a2bdf.js",
+    "service-worker.js": "/dooravel_react/service-worker.js",
+    "static/js/2.ecf6e0c0.chunk.js.LICENSE.txt": "/dooravel_react/static/js/2.ecf6e0c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6eb3527e.js",
+    "static/js/2.ecf6e0c0.chunk.js",
+    "static/js/main.3b3b0ff2.chunk.js"
+  ]
+}
