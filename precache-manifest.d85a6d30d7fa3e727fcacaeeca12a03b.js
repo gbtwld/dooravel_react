@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1921336b093bfa151e28b9e523a5cd7",
+    "revision": "97d5702941a6a2f6758549ec95567933",
     "url": "/dooravel_react/index.html"
   },
   {
-    "revision": "7c4fb05615d2ae93bfcc",
+    "revision": "9a5666cbbedd09626453",
     "url": "/dooravel_react/static/css/main.310e31fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dooravel_react/static/js/2.9ef10555.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c4fb05615d2ae93bfcc",
-    "url": "/dooravel_react/static/js/main.9d54a34a.chunk.js"
+    "revision": "9a5666cbbedd09626453",
+    "url": "/dooravel_react/static/js/main.c727cb28.chunk.js"
   },
   {
     "revision": "d90f21ace1db0aed8044",
