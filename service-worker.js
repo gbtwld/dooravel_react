@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dooravel_react/precache-manifest.0f539e93e9a5216ab406376ce20a2bdf.js"
+  "/dooravel_react/precache-manifest.195a5ef5c2ce5ee0d4623bdc0e65e217.js"
 );
 
 self.addEventListener('message', (event) => {

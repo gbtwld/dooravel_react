@@ -1,2 +1,0 @@
-(this.webpackJsonpdooravel_react=this.webpackJsonpdooravel_react||[]).push([[0],{3:function(e,t,n){e.exports=n(8)},8:function(e,t,n){"use strict";n.r(t);var r=n(0),a=n.n(r),o=n(2);var l=function(){return a.a.createElement("div",null,"Hello")};n.n(o).a.render(a.a.createElement(a.a.StrictMode,null,a.a.createElement(l,null)),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.3b3b0ff2.chunk.js.map
